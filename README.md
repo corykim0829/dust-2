@@ -9,6 +9,8 @@
  <p align="center">시간별 미세먼지 데이터 제공 서비스</p>
 </p>
 
+<br>
+
 <p align="center">
 <img src="https://github.com/codesquad-member-2020/dust-2/raw/master/client-mobile/proto/dark_mode.gif" width="240px"> <img src="https://github.com/codesquad-member-2020/dust-2/raw/master/client-mobile/proto/light_mode.gif" width="240px"> 
 </p>
@@ -71,7 +73,6 @@
 
 > 회고
 
-- 수요일에 중간회고를 진행한다.
 - 회고는 금요일에 진행한다.
 
 <br>

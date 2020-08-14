@@ -1,6 +1,17 @@
-# 미세먼지 서비스 💨
 
-미세먼지 서비스 프로젝트 2팀
+<h1 align="center">
+  미세먼지 서비스
+</h1>
+<p align="center">
+
+<p align="center">
+ <img src="https://img.shields.io/badge/platform-iOS-9cf.svg">        <img src="https://img.shields.io/badge/Swift-5.2-orange">
+ <p align="center">시간별 미세먼지 데이터 제공 서비스</p>
+</p>
+
+<p align="center">
+<img src="https://github.com/codesquad-member-2020/dust-2/raw/master/client-mobile/proto/dark_mode.gif" width="240px"> <img src="https://github.com/codesquad-member-2020/dust-2/raw/master/client-mobile/proto/light_mode.gif" width="240px"> 
+</p>
 
 <br>
 
